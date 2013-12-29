@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zudiro>
+  <level level="1" sublevel="1" atg="1,2,3" lotg="4,5,6"/>
+  <level level="1" sublevel="2" atg="4,5,6" lotg="8,9,0"/>
+  <level level="1" sublevel="3" atg="1,2,3" lotg="4,5,6"/>
+  <level level="1" sublevel="4" atg="4,5,6" lotg="8,9,0"/>
+  <level level="1" sublevel="5" atg="1,2,3" lotg="4,5,6"/>
+  <level level="1" sublevel="6" atg="4,5,6" lotg="8,9,0"/>
+  <level level="1" sublevel="7" atg="1,2,3" lotg="4,5,6"/>
+  <level level="1" sublevel="8" atg="4,5,6" lotg="8,9,0"/>
+  <level level="1" sublevel="9" atg="1,2,3" lotg="4,5,6"/>
+  <level level="2" sublevel="1" atg="3,1,4,2" lotg="4,2,1,2"/>
+  <level level="2" sublevel="2" atg="2,3,3,2" lotg="1,3,3,3"/>
+  <level level="2" sublevel="3" atg="1,1,3,0" lotg="1,3,1,1"/>
+  <level level="2" sublevel="4" atg="3,1,1,1" lotg="3,1,2,1"/>
+  <level level="2" sublevel="5" atg="2,1,1,2" lotg="1,2,1,1"/>
+  <level level="2" sublevel="6" atg="2,2,1,3" lotg="1,3,1,2"/>
+  <level level="2" sublevel="7" atg="3,1,3,4" lotg="2,4,2,1"/>
+  <level level="2" sublevel="8" atg="3,1,2,2" lotg="2,2,3,0"/>
+  <level level="2" sublevel="9" atg="4,2,1,1" lotg="4,2,1,2"/>
+</zudiro>
