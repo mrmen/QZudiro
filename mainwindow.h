@@ -33,7 +33,7 @@ public slots:
     void buttonClick(QWidget*);
     void doTheStuff(int level, int sublevel);
     void getValueAndUpdate();
-    void updateIt(int level, int sublevel);
+    void updateIt();
     // must be done with only one
  /*   void getSavedGames();
     void getMax();
